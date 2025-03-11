@@ -1,5 +1,7 @@
 # MapKit - iOS
 
+![Map](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB4MXdiMHM4a3JkNmYzOHNuZmlqaGhlbGR3Y253cTMwdDMzdWNkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kprByMkudw8s8/giphy.gif)
+
 Map 관련 연습
 
 ## 경로 기록
@@ -290,7 +292,7 @@ private func isPossibleRecord(_ location: CLLocationCoordinate2D) {
         <p align="center">
         <img src="https://github.com/BOLTB0X/MapKit-iOS/blob/main/history/05_%EC%8B%A4%EA%B8%B0%EA%B8%B0%ED%85%8C%EC%8A%A4%ED%8A%B8_firebaseDB%EC%97%B0%EB%8F%99_%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EC%8A%A4%EC%83%B7.png?raw=true" 
              alt="2" 
-             style="width:200px; height:400px; object-fit:contain;"/>
+             style="width:400px; height:300px; object-fit:contain;"/>
         </p>
       </td>
     </tr>
